@@ -5,12 +5,13 @@
 
 知识点：zealy和enso主网的钱包一样否则无法验证
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d358e5ea-521d-4c22-939e-582da8b6e7df)
+
 
 
 获取Zealy UID:
 
-![Uploading image-1.png…]()
+![image-1](https://github.com/user-attachments/assets/77dac351-20ca-436c-854b-5c3d5adf35e2)
 
 
 # 怎么配置？
